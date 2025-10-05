@@ -14,6 +14,12 @@ Welcome to my GitHub profile!
 | 📌 [ci3-snippets](https://github.com/sunuazizrahayu/ci3-snippets) | A list of codeigniter 3 snippets for Sublime Text |
 
 
+### 🎭 Magisk
+| Project | Description |
+|-------------|------------------|
+| 📌 [Box-UI](https://github.com/sunuazizrahayu/box-ui) | Comprehensive and intuitive interface for interacting with the [Box for Magisk module](https://github.com/taamarin/box_for_magisk) from web browser |
+
+
 ## 📫 Contact Me
 📘 Facebook   : [facebook.com/sunuazizrahayu](https://facebook.com/sunuazizrahayu)  
 🌐 Blog       : [kangsunu.com](https://kangsunu.com)
